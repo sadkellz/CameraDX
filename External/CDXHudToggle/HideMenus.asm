@@ -53,7 +53,7 @@ lwz REG_CURRENT, PLINK_UI(REG_CURRENT)
 
 
 
-li r3, 1 # port 2
+li r3, 3 # port 3
 branchl r12, DevelopModeInput_GetPressed
 rlwinm.	r0, r3, 0, 29, 29 #(00000004) # check for dpad down
 beq-    LOOP_INIT
@@ -121,7 +121,7 @@ LOOP_CHECK:
 
 MENU:
 
-    li r3, 1 # port 2
+    li r3, 3 # port 2
     branchl r12, DevelopModeInput_GetPressed
     rlwinm.	r0, r3, 0, 28, 28 #(00000008) # check for dpad up
     beq-    EXIT
