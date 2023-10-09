@@ -19,4 +19,5 @@ Place `cdx_hud.usd` into
 Copy and paste the code from `CameraDX Code.txt` into Slippi Launchers gecko code manager:
 
 `Settings -> Playback -> Manage Gecko Codes -> Add`
+
 **Note:** Controls only work for port 4!
