@@ -21,3 +21,10 @@ Copy and paste the code from `CameraDX Code.txt` into Slippi Launchers gecko cod
 `Settings -> Playback -> Manage Gecko Codes -> Add`
 
 **Note:** Controls only work for port 4!
+
+#### Special Thanks:
+[**walz**](https://twitter.com/walz_dev) - ASM helper
+
+[**Slippi Team**](https://github.com/project-slippi/slippi-ssbm-asm) - Slippi SSBM ASM and file loader
+
+[**Punkline**](https://smashboards.com/threads/hsd_hide-module-non-destructive-model-hiding.496233/) - HSD Hide Module
