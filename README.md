@@ -1,4 +1,6 @@
-
+<a>
+    <img src="resources/CameraDX_white.png" alt="CDX logo" title="CameraDX" align="center" height="500" />
+</a>
 ![Logo](resources/CameraDX_white.png)
 
 
