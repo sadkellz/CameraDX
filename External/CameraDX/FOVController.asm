@@ -13,7 +13,7 @@
 
 
 .set Menu_GetHeldButtons, 0x801a3680
-.set STICK_FLOAT, 0x804c2014
+.set STICK_FLOAT, 0x804c209c
 .set EXPF, 0x8000ce50
 
 b CODE_START

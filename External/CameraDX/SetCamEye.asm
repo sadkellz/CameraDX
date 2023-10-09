@@ -5,7 +5,7 @@
 .include "Common/Common.s"
 .set GetButtons, 0x804c1ff0
 .set CURRENT_STAGE_ID, 0x8049e750
-.set HSD_PadStatus, 0x804c1ff0
+.set HSD_PadStatus, 0x804c2078
 .set MENU_GOBJ, 0x80002fac
 .set DevelopModeInput_GetButtons, 0x8022558c
 .set DevelopModeInput_GetPressed, 0x802255a4
@@ -375,7 +375,7 @@ li CURRENT_CAM_REG, 7
 
 # Getting buttons
 # Setting our port
-li r3, 1
+li r3, 3
 #branchl r12, DevelopModeInput_GetPressed
 #branchl r12, DevelopModeInput_GetButtons
 #branchl r12, Menu_GetHeldButtons
@@ -389,39 +389,6 @@ lwz BUTTON_DATA, 0(BUTTON_DATA)
 # restore r4
 mr r4, r15
 
-
-# # MENU~~~~
-# load REG_GOBJ, MENU_GOBJ
-# # load gobj into r3
-# lwz r3, 0x0(REG_GOBJ)
-# # load flags addr from offset
-# addi r3, r3, 0x1C
-# # backup original flags
-# lwz r16, 0(r3)
-# load r15, HIDE_MENU
-# 
-# # skip storing if 0
-# cmpwi r16, 0x0
-# beq SKIP_STORE
-# stw r16, 0x4(REG_GOBJ)
-# SKIP_STORE:
-# 
-# # check for dpad up
-# cmpwi BUTTON_DATA, 0x8
-# bne UNHIDE
-# # check if gobj flags are 0
-# cmpwi r16, 0x0
-# # hide
-# beq UNHIDE
-# stw r15, 0(r3)
-# #b UNHIDE
-# 
-# UNHIDE:
-# cmpwi BUTTON_DATA, 0x4
-# bne MENU_EXIT
-# lwz r17, 0x4(REG_GOBJ)
-# stw r17, 0(r3)
-# MENU_EXIT:  
 
 # Comparing Buttons and setting them.
 # Check if A button was pressed
