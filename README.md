@@ -4,7 +4,7 @@
 
 #
 
-A Super Smash Bros. Melee camera mod that functions as an in-game production package, allowing for new and more interactive methods of production in real time
+A Super Smash Bros. Melee camera mod that functions as an in-game production package, allowing for new and more interactive methods of production in real time.
 ## Controls
 <p align="center">
 <img src="https://raw.githubusercontent.com/sadkellz/CameraDX/main/resources/menu_graphic.png" alt="CameraDX Logo" width="500"/>
