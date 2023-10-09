@@ -1,11 +1,14 @@
+<p align="center">
 <img src="https://raw.githubusercontent.com/sadkellz/CameraDX/main/resources/CameraDX_white.png" alt="CameraDX Logo" width="500"/>
+</p>
 
-# CameraDX
+#
 
 A Super Smash Bros, Melee camera mod that functions as an in-game production package, allowing for new and more interactive methods of production in real time
 ## Controls
-<img src="https://raw.githubusercontent.com/sadkellz/CameraDX/main/resources/menu_graphic.png" alt="CameraDX Logo" width="800"/>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/sadkellz/CameraDX/main/resources/menu_graphic.png" alt="CameraDX Logo" width="500"/>
+</p>
 
 ## Installation
 
