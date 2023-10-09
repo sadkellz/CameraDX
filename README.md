@@ -22,7 +22,7 @@ Copy and paste the code from `CameraDX Code.txt` into Slippi Launchers gecko cod
 
 **Note:** Controls only work for port 4!
 
-### Special Thanks:
+## Special Thanks:
 [**walz**](https://twitter.com/walz_dev) - ASM helper
 
 [**Slippi Team**](https://github.com/project-slippi/slippi-ssbm-asm) - Slippi SSBM ASM and file loader
