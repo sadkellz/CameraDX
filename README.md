@@ -15,7 +15,7 @@ Download the latest [release](https://github.com/sadkellz/CameraDX/releases)
 
 Place `cdx_hud.usd` into the GameFiles folder:
 
-`Slippi Launcer -> Settings -> Playback -> Open settings folder -> Sys -> GameFiles -> GALE01`
+`Slippi Launcher -> Settings -> Playback -> Open settings folder -> Sys -> GameFiles -> GALE01`
 
 or
 
@@ -23,7 +23,7 @@ or
 
 Copy and paste the code from `CameraDX Code.txt` into Slippi Launchers gecko code manager:
 
-`Slippi Launcer -> Settings -> Playback -> Manage Gecko Codes -> Add`
+`Slippi Launcher -> Settings -> Playback -> Manage Gecko Codes -> Add`
 
 **Note:** Controls only works for port 4!
 
