@@ -11,7 +11,7 @@ A Super Smash Bros. Melee camera mod that functions as an in-game production pac
 </p>
 
 ## Installation
-
+Download the latest [release](https://github.com/sadkellz/CameraDX/releases)
 Place `cdx_hud.usd` into the GameFiles folder:
 
 `Slippi Launcer -> Settings -> Playback -> Open settings folder -> Sys -> GameFiles -> GALE01`
