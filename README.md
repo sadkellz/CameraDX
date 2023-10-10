@@ -37,4 +37,5 @@ Copy and paste the code from `CameraDX Code.txt` into Slippi Launchers gecko cod
 
 ## Socials
 [ko-fi](https://ko-fi.com/sadkellz)
+
 [Twitter](https://twitter.com/sadkellz)
