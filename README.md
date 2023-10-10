@@ -15,7 +15,9 @@ A Super Smash Bros. Melee camera mod that functions as an in-game production pac
 Place `cdx_hud.usd` into the GameFiles folder:
 
 `Slippi Launcer -> Settings -> Playback -> Open settings folder -> Sys -> GameFiles -> GALE01`
+
 or
+
 `C:\Users\*user*\AppData\Roaming\Slippi Launcher\playback\Sys\GameFiles\GALE01`
 
 Copy and paste the code from `CameraDX Code.txt` into Slippi Launchers gecko code manager:
