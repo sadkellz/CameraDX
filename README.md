@@ -12,15 +12,17 @@ A Super Smash Bros. Melee camera mod that functions as an in-game production pac
 
 ## Installation
 
-Place `cdx_hud.usd` into
+Place `cdx_hud.usd` into the GameFiles folder:
 
+`Slippi Launcer -> Settings -> Playback -> Open settings folder -> Sys -> GameFiles -> GALE01`
+or
 `C:\Users\*user*\AppData\Roaming\Slippi Launcher\playback\Sys\GameFiles\GALE01`
 
 Copy and paste the code from `CameraDX Code.txt` into Slippi Launchers gecko code manager:
 
-`Settings -> Playback -> Manage Gecko Codes -> Add`
+`Slippi Launcer -> Settings -> Playback -> Manage Gecko Codes -> Add`
 
-**Note:** Controls only work for port 4!
+**Note:** Controls only works for port 4!
 
 ## Special Thanks:
 [**walz**](https://twitter.com/walz_dev) - ASM helper
