@@ -1,4 +1,4 @@
-$Camera DX2 [KELLZ, walz]
+$Camera DX NOHUD [KELLZ, walz]
 *a super smash bros melee camera mod that functions as an in-game production package
 042275EC 60000000 #External/CameraDX/DisableCStick.asm
 042276E4 60000000 #External/CameraDX/DisableCamSwitch_Dev.asm
